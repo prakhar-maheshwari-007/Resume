@@ -39,7 +39,6 @@ No manual deployment steps required.
 - PDF (resume format)
 
 ---
-
 ## 📌 Notes
 
 - This repository is public so the resume can be accessed without authentication.
